@@ -1,0 +1,5 @@
+1. have shap-e come up with a spinning object and add text plus a song to it
+2. Ai generates a story, make a video attached to that story, have ai voice over the story
+3. API to reddit and have ai voice over the post
+
+HFTOKEN = "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"
